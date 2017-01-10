@@ -2,7 +2,7 @@ Programming & Poetry
 CompLit 232, DLCL 226
 
 
-​# Contact and Office Hours
+# Contact and Office Hours
 Michael Widner
 Pigott Hall, Room 108
 650-723-6099
@@ -10,7 +10,7 @@ mikewidner@stanford.edu
 
 Office hours are by appointment only, but I am typically on campus five days a week between 9AM-5PM.
 
-​# Course Description
+# Course Description
 Computers affect our lives in a nearly uncountable number of ways. They now are critical to finance, travel, education, health care, and practically every other sector of society. But these computers require programming in order to perform their tasks, programs written by people with their own motivations, biases, and styles. These programs, moreover, have a purpose: to create effects in the computer and, by extension, in the people who use these programs.
 Poetry likewise may be thought of as a program, one designed to raise emotions, thoughts, and images in the minds of its readers. How, then, does a poem achieve these ends? What is the processor for a poem?
 In this course we will explore how language works on the mind and how a computer program works on a computer. What can the similarities and differences between how these two forms of code work tell us about the mind, about computers, and about ourselves?
@@ -49,7 +49,7 @@ C: May lack a thesis or have only a weak thesis. Or, if a thesis is present, lac
 D: Lacks a thesis, provides only a vague awareness, if any, of the object of discussion. May suffer from overwhelming mechanical problems.
 F: Demonstrates little to no understanding of the assignment. Does not fulfill even the basic requirements.
 
-​## Schedule
+## Schedule
 Note: Readings for each week will be listed online.
 Week 1: Introductions – Reading Code, Reading Poetry
 Week 2: Ada Lovelace and Lord Byron
