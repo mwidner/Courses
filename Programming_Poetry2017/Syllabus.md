@@ -40,7 +40,7 @@ Overall grades will be calculated based on the entirety of a student’s work fo
 * Class Participation: 20%
 * Short Written Responses: 20%
 * Final Project: 40%
-​
+
 ## Grading Rubric for Written Work
 All written work, including annotations, should be thoughtful. The written response work and final project will be evaluated according to the following rubric:
 * A: Argues a clear thesis with precision, deploys evidence effectively to support its thesis, is well-organized, free of grammatical and spelling errors, and adheres to proper citation format.
