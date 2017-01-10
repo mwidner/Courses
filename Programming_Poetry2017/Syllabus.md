@@ -43,11 +43,11 @@ Final Project 				40%
 ​
 ## Grading Rubric for Written Work
 All written work, including annotations, should be thoughtful. The written response work and final project will be evaluated according to the following rubric:
-A: Argues a clear thesis with precision, deploys evidence effectively to support its thesis, is well-organized, free of grammatical and spelling errors, and adheres to proper citation format.
-B: Does not succeed in all the points necessary for an “A”, but is generally successful. Has a thesis, but does not fully connect the body of the paper to that thesis.
-C: May lack a thesis or have only a weak thesis. Or, if a thesis is present, lacks evidences to support it or is so disorganized that the reader cannot easily understand it.
-D: Lacks a thesis, provides only a vague awareness, if any, of the object of discussion. May suffer from overwhelming mechanical problems.
-F: Demonstrates little to no understanding of the assignment. Does not fulfill even the basic requirements.
+* A: Argues a clear thesis with precision, deploys evidence effectively to support its thesis, is well-organized, free of grammatical and spelling errors, and adheres to proper citation format.
+* B: Does not succeed in all the points necessary for an “A”, but is generally successful. Has a thesis, but does not fully connect the body of the paper to that thesis.
+* C: May lack a thesis or have only a weak thesis. Or, if a thesis is present, lacks evidences to support it or is so disorganized that the reader cannot easily understand it.
+* D: Lacks a thesis, provides only a vague awareness, if any, of the object of discussion. May suffer from overwhelming mechanical problems.
+* F: Demonstrates little to no understanding of the assignment. Does not fulfill even the basic requirements.
 
 ## Schedule
 Note: Readings for each week will be listed online.
