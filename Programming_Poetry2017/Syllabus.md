@@ -21,7 +21,7 @@ In this course we will explore how language works on the mind and how a computer
 * Read and be able to explain the main ideas in a piece of code or poetry.
 * Compare and contrast the ways poetry and programs function.
 * Identify the audiences and purposes for poetry and computer programs.
-​
+
 # Readings, Materials, and Resources
 All course materials will be made available for free on Lacuna, a digital reading, annotating, and writing platform developed at Stanford (by yours truly). The site is available at https://stanford.lacunastories.com. You will also be able to access the course materials through Canvas.
 Any students who need alternative accommodations for the course materials should let me know.
