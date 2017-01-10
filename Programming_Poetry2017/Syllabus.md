@@ -51,16 +51,16 @@ F: Demonstrates little to no understanding of the assignment. Does not fulfill e
 
 ## Schedule
 Note: Readings for each week will be listed online.
-Week 1: Introductions – Reading Code, Reading Poetry
-Week 2: Ada Lovelace and Lord Byron
-Week 3: Literate Programming
-Week 4: Critical Code Studies
-Week 5: The Cognitive Science and Poetry; Project Proposals
-Week 6: Gender in Code and Poetry
-Week 7: Code Poetry and Oulipo
-Week 8: Recursion and Elegance
-Week 9: Text-Mining Poetry
-Week 10: Final Projects
+* Week 1: Introductions – Reading Code, Reading Poetry
+* Week 2: Ada Lovelace and Lord Byron
+* Week 3: Literate Programming
+* Week 4: Critical Code Studies
+* Week 5: The Cognitive Science and Poetry; Project Proposals
+* Week 6: Gender in Code and Poetry
+* Week 7: Code Poetry and Oulipo
+* Week 8: Recursion and Elegance
+* Week 9: Text-Mining Poetry
+* Week 10: Final Projects
 
 ## Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066, URL: http://studentaffairs.stanford.edu/oae).
