@@ -36,10 +36,12 @@ Students will be expected to annotate each text assigned in advance of the class
 ## Evaluation and Grading Criteria for Student Work and Class Participation
 To demonstrate mastery of this course’s learning goals, students should attend class, participate regularly in discussion, make at least 5 class-visible annotations per week, write at least 1 short response each week, and submit a final project.
 Overall grades will be calculated based on the entirety of a student’s work for the quarter. The final grade will be based on a weighted average of this work:
-Annotations 				20%
-Class Participation 			20%
-Short Written Responses 		20%
-Final Project 				40%
+| Activity | Percentage |
+| -------- | ---------- |
+| Annotations | 20% |
+| Class Participation | 20% |
+| Short Written Responses | 20% |
+| Final Project | 40% |
 ​
 ## Grading Rubric for Written Work
 All written work, including annotations, should be thoughtful. The written response work and final project will be evaluated according to the following rubric:
