@@ -16,11 +16,11 @@ Poetry likewise may be thought of as a program, one designed to raise emotions, 
 In this course we will explore how language works on the mind and how a computer program works on a computer. What can the similarities and differences between how these two forms of code work tell us about the mind, about computers, and about ourselves?
 ​
 # Learning Goals
-Recognize and be able to analyze the formal characteristics of verse.
-Recognize and be able to name the formal characteristics of computer programs.
-Read and be able to explain the main ideas in a piece of code or poetry.
-Compare and contrast the ways poetry and programs function.
-Identify the audiences and purposes for poetry and computer programs.
+* Recognize and be able to analyze the formal characteristics of verse.
+* Recognize and be able to name the formal characteristics of computer programs.
+* Read and be able to explain the main ideas in a piece of code or poetry.
+* Compare and contrast the ways poetry and programs function.
+* Identify the audiences and purposes for poetry and computer programs.
 ​
 # Readings, Materials, and Resources
 All course materials will be made available for free on Lacuna, a digital reading, annotating, and writing platform developed at Stanford (by yours truly). The site is available at https://stanford.lacunastories.com. You will also be able to access the course materials through Canvas.
