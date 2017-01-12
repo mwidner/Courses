@@ -54,6 +54,7 @@ Note: Readings for each week will be listed online.
 * Week 1: Introductions – Critical Code Studies
 * Week 2: Reading Poetry
 * Week 3: Electronic Literature
+  Guests: Margaret Rhee and Neil Aitken, Thursday 1/26
 * Week 4: Cognition, Language, and Poetry
 * Week 5: Cognition, Language, and Poetry, cont'd
 * Week 6: Code Poetry and Algorithmic Poems
