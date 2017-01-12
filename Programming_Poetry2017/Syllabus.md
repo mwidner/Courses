@@ -51,15 +51,15 @@ All written work, including annotations, should be thoughtful. The written respo
 
 ## Schedule
 Note: Readings for each week will be listed online.
-* Week 1: Introductions – Reading Code, Reading Poetry
-* Week 2: Ada Lovelace and Lord Byron
-* Week 3: Literate Programming
-* Week 4: Critical Code Studies
-* Week 5: The Cognitive Science and Poetry; Project Proposals
-* Week 6: Gender in Code and Poetry
-* Week 7: Code Poetry and Oulipo
-* Week 8: Recursion and Elegance
-* Week 9: Text-Mining Poetry
+* Week 1: Introductions – Critical Code Studies
+* Week 2: Reading Poetry, Metaphors We Live By
+* Week 3: Electronic Literature
+* Week 4: Cognition, Language, and Poetry
+* Week 5: Cognition, Language, and Poetry, cont'd
+* Week 6: Code Poetry and Algorithmic Poems
+* Week 7: Code Poetry and Algorithmic Poems, cont'd
+* Week 8: Text-Mining Poetry
+* Week 9: Text-Mining Poetry, cont'd
 * Week 10: Final Projects
 
 ## Students with Documented Disabilities
