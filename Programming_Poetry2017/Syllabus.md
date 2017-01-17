@@ -57,8 +57,11 @@ Note: Readings for each week will be listed online.
   Guests: Margaret Rhee and Neil Aitken, Thursday 1/26
 * Week 4: Cognition, Language, and Poetry
 * Week 5: Cognition, Language, and Poetry, cont'd
-* Week 6: Code Poetry and Algorithmic Poems
-* Week 7: Code Poetry and Algorithmic Poems, cont'd
+* Week 6: Code Poetry and Algorithmic Poems  
+  Peter Wildman: "Modulate a Thousand Times More" https://vimeo.com/107008770  
+  Ross Goodwin: Poetizer.py                       https://vimeo.com/104833442  
+* Week 7: Code Poetry and Algorithmic Poems, cont'd  
+  Polyglot code:  http://www.nyx.net/~gthompso/poly/polyglot.htm  (may be outside of scope of class)
 * Week 8: Text-Mining Poetry
 * Week 9: Text-Mining Poetry, cont'd
 * Week 10: Final Projects
